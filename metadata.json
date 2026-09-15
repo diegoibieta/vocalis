@@ -1,0 +1,6 @@
+{
+  "name": "Vocalis - Agente de Voz Local",
+  "description": "Agente de voz autónomo y local para control de tareas, mensajería y aplicaciones con autoaprendizaje continuo y almacenamiento privado en el dispositivo sin gasto de tokens.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
